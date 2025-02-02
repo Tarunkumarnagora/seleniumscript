@@ -10,6 +10,13 @@
           <include name="launch"/>
         </methods>
       </class> <!-- packageofamazon1.Project_Maven_Amazon.TestCase2 -->
+      <class name="packageofamazon1.Project_Maven_Amazon.TestCase1">
+        <methods>
+          <include name="test"/>
+          <include name="launch"/>
+          <include name="quit"/>
+        </methods>
+      </class> <!-- packageofamazon1.Project_Maven_Amazon.TestCase1 -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
